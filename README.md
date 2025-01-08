@@ -13,23 +13,6 @@ Read **Cross_Analysis_OFI.pdf** for more info
 - **Visualizations**: Heatmaps and scatter plots for key insights.
 
 ---
-''' bash
-## Project Structure
-Cross_Impact_OFI/
-├── data/                  # Raw and processed datasets
-│   ├── XNAS-20250108-A3FT8DUDJU/               # Raw .zst files
-│   ├── processed/         # Processed data outputs (compressed .zip/.gz files)
-├── scripts/               # Python scripts for data processing and analysis
-│   ├── data_preprocessing.py
-│   ├── compute_ofi.py
-│   ├── pca_integration.py
-│   ├── regression_analysis.py
-│   ├── visualization.py
-├── notebooks/             # Contains the driver analysis notebook
-├── results/               # Output plots and regression results
-├── README.md              # Project description
-'''
----
 
 ## Installation
 1. Clone the repository:
