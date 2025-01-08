@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2024-12-23",
+        "condition": "available",
+        "last_modified_date": "2024-12-24"
+    },
+    {
+        "date": "2024-12-24",
+        "condition": "available",
+        "last_modified_date": "2024-12-25"
+    },
+    {
+        "date": "2024-12-25",
+        "condition": "available",
+        "last_modified_date": "2024-12-26"
+    },
+    {
+        "date": "2024-12-26",
+        "condition": "available",
+        "last_modified_date": "2024-12-27"
+    },
+    {
+        "date": "2024-12-27",
+        "condition": "available",
+        "last_modified_date": "2024-12-28"
+    }
+]
